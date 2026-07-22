@@ -44,7 +44,7 @@ function App() {
       description:
         "A mobile-friendly ordering web app built with React, Vite, and Supabase. Customers can browse menu items, customize drinks, and place orders, while an admin interface manages pending orders and completion status.",
       tech: ["React", "Vite", "CSS", "Supabase"],
-      link: "https://cafe.standardlee.info",
+      link: "https://cafe-demo.standardlee.info",
     },
     {
       title: "Retail SQL Portfolio",
