@@ -1,16 +1,39 @@
-# React + Vite
+# Ki Joon Lee Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with React and Vite. It showcases my projects, technical skills, resume, and contact information in a clean single-page layout.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Visit the website](https://your-portfolio-url.com)
 
-## React Compiler
+## Sections
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Hero introduction
+- Resume
+- Projects
+- Skills
+- Contact
 
-## Expanding the ESLint configuration
+## Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- CSS3
+- React Icons
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Notes
+
+This portfolio is a work in progress and will continue to be updated with additional projects and design improvements.
+
+## Links
+
+- GitHub: [https://github.com/StandardLee](https://github.com/StandardLee)
+- LinkedIn: [https://www.linkedin.com/in/ki-joon-lee](https://www.linkedin.com/in/ki-joon-lee)
