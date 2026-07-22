@@ -4,7 +4,7 @@ This is my personal portfolio website built with React and Vite. It showcases my
 
 ## Live Demo
 
-[Visit the website](https://your-portfolio-url.com)
+[Visit the website](https://www.standardlee.info)
 
 ## Sections
 
